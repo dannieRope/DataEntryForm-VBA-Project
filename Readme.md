@@ -1,5 +1,5 @@
 # Data Entry Form
-This repository contains VBA modules, and form created whilst working on the  project.
+This repository contains VBA modules, and forms created whilst working on the  project.
 
 The goal of this project is to create an intuitive data entry interface.
 There are three different forms. These forms are simple to use and have data validation built in to minimize errors and cut down on the amount of time needed for data entry.
